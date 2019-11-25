@@ -24,4 +24,6 @@ main () {
   fi
 }
 
+main $1
+
 exit 0
